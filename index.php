@@ -39,7 +39,7 @@
           }
          ?>
       </select>
-      <textarea name="description" rows="8" cols="80" hidden>The browser version is Edge v.36</textarea>
+      <textarea name="description" rows="8" cols="80" >The browser version is Edge v.36</textarea>
       <input type="submit" name="" value="Send the data to the server">
 
     </form>
