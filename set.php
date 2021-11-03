@@ -1,0 +1,3 @@
+<?
+setcookie('brownie','1');
+?>
